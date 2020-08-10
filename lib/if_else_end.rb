@@ -1,1 +1,1 @@
-# Write your solution here
+puts "hello"
