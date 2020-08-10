@@ -1,6 +1,6 @@
 current_time = Time.now
 if current_time.to_i % 2.0
-  return "Even!"
-else
   return "Odd!"
+else
+  return "Even!"
 end
